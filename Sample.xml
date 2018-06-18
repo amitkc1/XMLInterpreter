@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+
+<commands>
+    OPEN /Users/achaudhari/Desktop/XMLInterpreter/test.log
+    WRITE "TEST"
+    CLOSE /Users/achaudhari/Desktop/XMLInterpreter/test.log
+</commands>
